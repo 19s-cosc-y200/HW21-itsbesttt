@@ -1,0 +1,35 @@
+Project Name: Hands on Exercises 6.4 - 6.7
+Author: Best Jirayoot
+Date Last Modified: May 3, 2019
+
+********** QUESTION 1 **********
+
+.questionone {
+	
+	position: relative;
+	left: 15px;
+	background-color: #90EE90;
+}
+
+********** QUESTION 2 **********
+
+#questiontwo {
+	position: fixed;
+	background-color: #d3d3d3;
+	font-weight: bold;
+	padding: 10px;
+}
+
+********** QUESTION 3 **********
+
+ul {
+	
+	list-style-image: url('myimage.gif');
+}
+
+********** QUESTION 4 **********
+
+ul {
+	
+	list-style-type: square;
+}
